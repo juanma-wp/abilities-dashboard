@@ -2,9 +2,12 @@
 
 A WordPress plugin that provides a beautiful, interactive dashboard for viewing and managing WordPress Abilities with advanced data visualization and management capabilities.
 
+[![Snapshot of Abilities Dashboard](./assets/snapshot.png)](https://youtu.be/j3cVU6FpxEU)
+
+
 ## Overview
 
-This plugin creates an admin page that displays all available WordPress Abilities in a searchable, sortable, and filterable table view. It leverages the WordPress DataViews component to provide a modern, responsive interface for exploring and executing abilities.
+This plugin creates an admin page that displays all available WordPress Abilities in a searchable, sortable, and filterable table view. It leverages the WordPress DataViews component to provide a modern, responsive interface for exploring and executing abilities (see [video](https://youtu.be/j3cVU6FpxEU)). 
 
 ## Try it Now
 
